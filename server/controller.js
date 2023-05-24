@@ -50,7 +50,7 @@ const exercisesArray = [
     muscleGroup: 'biceps',
     name: 'Bicep Curl',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'https://www.youtube.com/shorts/ckhfQgBfj6w'
+    videoLink: 'https://www.youtube.com/watch?v=o2M4cHjk-cA'
   },
 
   {
@@ -58,7 +58,7 @@ const exercisesArray = [
     muscleGroup: 'biceps',
     name: 'Hammer Curl',
     setsReps: '3 sets x 10 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=OQEEpMdMEP8'
   },
 
   {
@@ -66,7 +66,7 @@ const exercisesArray = [
     muscleGroup: 'biceps',
     name: 'Preacher Curl',
     setsReps: '3 sets x 10 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=vngli9UR6Hw'
   },
 
   {
@@ -74,7 +74,7 @@ const exercisesArray = [
     muscleGroup: 'deltoids',
     name: 'Shoulder Press',
     setsReps: '4 sets x 8 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=stT5ygQcHok'
   },
 
   {
@@ -82,7 +82,7 @@ const exercisesArray = [
     muscleGroup: 'deltoids',
     name: 'Rear Delt Fly',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=3Hhmp2nhlt4'
   },
 
   {
@@ -90,7 +90,7 @@ const exercisesArray = [
     muscleGroup: 'deltoids',
     name: 'Lateral Raises',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=6m7JO28RqZg'
   },
 
   {
@@ -98,7 +98,7 @@ const exercisesArray = [
     muscleGroup: 'deltoids',
     name: 'Front Raises',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=-t7fuZ0KhDA'
   },
 
   {
@@ -106,7 +106,7 @@ const exercisesArray = [
     muscleGroup: 'forearms',
     name: 'Dumbbell Reverse Curl',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=uiH-2J85mzI'
   },
 
   {
@@ -114,7 +114,7 @@ const exercisesArray = [
     muscleGroup: 'forearms',
     name: 'Zottman Curl',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=ZrpRBgswtHs'
   },
 
   {
@@ -122,7 +122,7 @@ const exercisesArray = [
     muscleGroup: 'forearms',
     name: 'Dumbbell Wrist Extension',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=la-0c4ubkvs'
   },
 
   {
@@ -130,7 +130,7 @@ const exercisesArray = [
     muscleGroup: 'triceps',
     name: 'Dips',
     setsReps: '3 sets till failure',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=VHNVgoh377k'
   },
 
   {
@@ -138,7 +138,7 @@ const exercisesArray = [
     muscleGroup: 'triceps',
     name: 'Cable Pushdown',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=JthKLSzmuP8'
   },
 
   {
@@ -146,7 +146,7 @@ const exercisesArray = [
     muscleGroup: 'triceps',
     name: 'Push-up',
     setsReps: '3 sets x 25 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=IODxDxX7oi4'
   },
 
   {
@@ -154,7 +154,7 @@ const exercisesArray = [
     muscleGroup: 'triceps',
     name: 'Overhead Extension',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=bEDusgF5SGQ'
   },
 
   {
@@ -162,7 +162,7 @@ const exercisesArray = [
     muscleGroup: 'traps',
     name: 'Dumbbell Shrug',
     setsReps: '3 sets x 10 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=4MQRP05wAtg'
   },
 
   {
@@ -170,7 +170,7 @@ const exercisesArray = [
     muscleGroup: 'traps',
     name: 'Facepulls',
     setsReps: '3 sets x 15 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=V8dZ3pyiCBo'
   },
 
   {
@@ -178,7 +178,7 @@ const exercisesArray = [
     muscleGroup: 'traps',
     name: 'Upright Rows',
     setsReps: '3 sets x 15 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=WNz7O59GORA'
   },
 
   {
@@ -186,7 +186,7 @@ const exercisesArray = [
     muscleGroup: 'traps',
     name: 'Rack Pulls',
     setsReps: '4 sets x 8 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=u7NE34Vw81w'
   },
 
   {
@@ -194,7 +194,7 @@ const exercisesArray = [
     muscleGroup: 'lats',
     name: 'Lat Pulldown',
     setsReps: '3 sets x 12 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=Y6NnENfL3wM'
   },
 
   {
@@ -202,7 +202,7 @@ const exercisesArray = [
     muscleGroup: 'lats',
     name: 'Pull-up',
     setsReps: '4 sets till failure',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=naYOyiiQIKQ'
   },
 
   {
@@ -210,7 +210,7 @@ const exercisesArray = [
     muscleGroup: 'lats',
     name: 'Dumbbell Row',
     setsReps: '4 sets x 10 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=Bolw1TqZD-U'
   },
 
   {
@@ -218,7 +218,7 @@ const exercisesArray = [
     muscleGroup: 'lats',
     name: 'Deadlift',
     setsReps: '4 sets x 5-8 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/shorts/g2ohE7_XkCY'
   },
 
   {
@@ -226,7 +226,7 @@ const exercisesArray = [
     muscleGroup: 'abs',
     name: 'Leg Raises',
     setsReps: '3 sets x 20 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=JB2oyawG9KI'
   },
 
   {
@@ -234,7 +234,7 @@ const exercisesArray = [
     muscleGroup: 'abs',
     name: 'Crunches',
     setsReps: '3 sets x 20 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=MKmrqcoCZ-M'
   },
 
   {
@@ -242,7 +242,7 @@ const exercisesArray = [
     muscleGroup: 'obliques',
     name: 'Russian Twists',
     setsReps: '3 sets x 25 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=wkD8rjkodUI'
   },
 
   {
@@ -250,7 +250,7 @@ const exercisesArray = [
     muscleGroup: 'pectorals',
     name: 'Chest Press',
     setsReps: '4 sets x 10 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=qS9fVRrmyVY'
   },
 
   {
@@ -258,7 +258,7 @@ const exercisesArray = [
     muscleGroup: 'pectorals',
     name: 'Incline Press',
     setsReps: '4 sets x 10 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=VFbjmiAAwJE'
   },
 
   {
@@ -266,7 +266,7 @@ const exercisesArray = [
     muscleGroup: 'pectorals',
     name: 'Chest Fly',
     setsReps: '3 sets x 15 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=rNBSb6OZJfI'
   },
 
   {
@@ -274,7 +274,7 @@ const exercisesArray = [
     muscleGroup: 'pectorals',
     name: 'Dips',
     setsReps: '3 sets till failure',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=VHNVgoh377k'
   },
 
   {
@@ -282,7 +282,7 @@ const exercisesArray = [
     muscleGroup: 'adductors',
     name: 'Adductor Machine',
     setsReps: '3 sets x 15 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=CjAVezAggkI'
   },
 
   {
@@ -290,7 +290,23 @@ const exercisesArray = [
     muscleGroup: 'calves',
     name: 'Calf Raises',
     setsReps: '4 sets x 15 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=1lKjFPrYqf0'
+  },
+
+  {
+    id: 20,
+    muscleGroup: 'calves',
+    name: 'Seated Calf Raises',
+    setsReps: '4 sets x 15 reps',
+    videoLink: 'https://www.youtube.com/watch?v=JbyjNymZOt0'
+  },
+
+  {
+    id: 20,
+    muscleGroup: 'calves',
+    name: 'Single-Leg Hop',
+    setsReps: '3 sets x 25 reps',
+    videoLink: 'https://www.youtube.com/shorts/UAQ8_YS3Gnk'
   },
 
   {
@@ -298,7 +314,7 @@ const exercisesArray = [
     muscleGroup: 'hamstrings',
     name: 'Stiff Leg Deadlift',
     setsReps: '3 sets x 10 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=jKhhHczuxF0'
   },
 
   {
@@ -306,7 +322,23 @@ const exercisesArray = [
     muscleGroup: 'hamstrings',
     name: 'Leg Curl Machine',
     setsReps: '3 sets x 10 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=WxNISF4Nnp8'
+  },
+
+  {
+    id: 11,
+    muscleGroup: 'hamstrings',
+    name: 'Deadlift',
+    setsReps: '4 sets x 5-8 reps',
+    videoLink: 'https://www.youtube.com/shorts/g2ohE7_XkCY'
+  },
+
+  {
+    id: 11,
+    muscleGroup: 'hamstrings',
+    name: 'Sprints',
+    setsReps: '4 sets x 10-15 seconds',
+    videoLink: 'https://www.youtube.com/watch?v=nCklvVpGsmY'
   },
 
   {
@@ -314,7 +346,7 @@ const exercisesArray = [
     muscleGroup: 'glutes',
     name: 'Squat',
     setsReps: '4 sets x 8 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=gcNh17Ckjgg'
   },
 
   {
@@ -322,7 +354,7 @@ const exercisesArray = [
     muscleGroup: 'glutes',
     name: 'Hip Thrust',
     setsReps: '3 sets x 8 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=jQkKeL4Cg8M'
   },
 
   {
@@ -330,7 +362,7 @@ const exercisesArray = [
     muscleGroup: 'quads',
     name: 'Squat',
     setsReps: '4 sets x 8 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=gcNh17Ckjgg'
   },
 
   {
@@ -338,7 +370,7 @@ const exercisesArray = [
     muscleGroup: 'quads',
     name: 'Split Squats',
     setsReps: '3 sets x 10 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=SGHnCftrZkA'
   },
 
   {
@@ -346,7 +378,15 @@ const exercisesArray = [
     muscleGroup: 'quads',
     name: 'Leg Extension',
     setsReps: '3 sets x 15 reps',
-    videoLink: 'pew'
+    videoLink: 'https://www.youtube.com/watch?v=ljO4jkwv8wQ'
+  },
+
+  {
+    id: 26,
+    muscleGroup: 'quads',
+    name: 'Lunges',
+    setsReps: '4 sets x 15 reps',
+    videoLink: 'https://www.youtube.com/watch?v=687kU4JuWio'
   }
 ]
 module.exports = {
