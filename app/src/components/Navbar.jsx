@@ -3,6 +3,7 @@ import Nav from 'react-bootstrap/Nav'
 import BootStrapNavbar from 'react-bootstrap/Navbar'
 import { Link, Outlet } from 'react-router-dom'
 
+
 function Navbar() {
   return (
     <>
@@ -10,6 +11,9 @@ function Navbar() {
         <Container>
           <BootStrapNavbar.Collapse id='basic-navbar-nav'>
             <Nav variant='pills' className='me-auto' fill style={{ width: '50%' }}>
+              <h1 style={{ position:'relative', fontSize: 30, fontWeight: 'bold'}}>
+                FlexZone
+              </h1>
               <Nav.Link as={Link} to={'/'}>
                 Exercises
               </Nav.Link>

@@ -5,7 +5,7 @@ import ContactForm from '../components/Contact/ContactForm'
 
 function Contact() {
   return (
-    <Container>
+    <Container >
       <Row>
         <Col>
           <h1 style={{ textAlign: 'center' }}>Contact</h1>
@@ -14,7 +14,7 @@ function Contact() {
       <Row className='py-4 px-2'>
         <Col></Col>
         <Col xs={'4'}>
-          <ContactForm />
+          <ContactForm  />
         </Col>
         <Col></Col>
       </Row>
