@@ -2,3 +2,11 @@ a:-webkit-any-link {
   text-decoration: none;
   color: inherit;
 }
+
+html {
+  background-color: rgb(208, 212, 214);
+}
+
+#root {
+  background-color: rgb(208, 212, 214);
+}

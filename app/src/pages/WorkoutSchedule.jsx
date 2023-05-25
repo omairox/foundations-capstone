@@ -10,7 +10,7 @@ import { useEffect, useState } from 'react'
 
 function WorkoutSchedule() {
   const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
-  const colors = ['Primary', 'Secondary', 'Success', 'Danger', 'Light', 'Info', 'Dark']
+  const colors = ['Secondary', 'Light', 'Light', 'Light', 'Light', 'Light', 'Secondary']
   // ['Primary', 'Secondary', 'Success', 'Danger', 'Light', 'Info', 'Dark']
   // ['Light', 'Secondary', 'Light', 'Secondary', 'Light', 'Secondary', 'Light']
   const [isLoading, setIsLoading] = useState(false)
