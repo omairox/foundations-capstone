@@ -8,17 +8,17 @@ function Navbar() {
   return (
     <>
       <BootStrapNavbar bg='info' variant='dark' expand='lg'>
-        <Container>
+      <h1 style={{ position:'relative', fontSize: 30, fontWeight: 'bold', paddingLeft: 50}}>
+        FlexZone
+      </h1>
+        <Container style={{paddingLeft:1200}}>
           <BootStrapNavbar.Collapse id='basic-navbar-nav'>
-            <Nav variant='pills' className='me-auto' fill style={{ width: '50%' }}>
-              <h1 style={{ position:'relative', fontSize: 30, fontWeight: 'bold'}}>
-                FlexZone
-              </h1>
+            <Nav variant='pills' className='me-auto' fill style={{ width: '100%' }}>
               <Nav.Link as={Link} to={'/'}>
                 Exercises
               </Nav.Link>
               <Nav.Link as={Link} to='/workout-schedule'>
-                Workout Schedule
+                Schedule
               </Nav.Link>
               <Nav.Link as={Link} to='/progress' color='info'>
                 Progress
